@@ -2,7 +2,7 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RedmiNote7-7S-lavender/v1.5/total.svg)](https://GitHub.com/Hycon-Releases/RedmiNote7-7S-lavender/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RedmiNote7-7S-lavender/V1.5/total.svg)](https://GitHub.com/Hycon-Releases/RedmiNote7-7S-lavender/releases)
 
 
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/RedmiNote7-7S-lavender/V1.0/total.svg)](https://GitHub.com/Hycon-Releases/RedmiNote7-7S-lavender/releases)
