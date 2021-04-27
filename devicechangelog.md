@@ -1,3 +1,10 @@
+## Changelog for Redmi Note 7/7S (Lavender)
+
+## April changelog (27-04-2021)
+*Updated Source to Hacon 2.5
+*Trees updated from origin, Thanks to raiyanbinmoshin for them
+*Updated kernel to Stormbreaker 4.4.267
+
 - Initial build
 
 ## v1.5 | Zephyrus (28-02-2021)
