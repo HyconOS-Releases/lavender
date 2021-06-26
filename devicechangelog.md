@@ -1,5 +1,8 @@
 ## Changelog for Redmi Note 7/7S (Lavender)
 
+## v2.5 | Sunrise (25-06-2021)
+*Initial Build
+
 ## April changelog (27-04-2021)
 * Updated Source to Hycon 2.5
 * Trees updated from origin, Thanks to raiyanbinmoshin for them
