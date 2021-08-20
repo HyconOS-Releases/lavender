@@ -1,5 +1,16 @@
 ## Changelog for Redmi Note 7/7S (Lavender)
 
+## August Changelog (20-08-2021)
+* Merged August Security Patch
+* Gapps Included
+* Fixed UI lags and Improved System Stablity
+* Enforcing Build
+* Updated XiaomiParts
+* Fixed Xiaomi Doze and Mi Sound Enhancer
+* Fixed Night Light
+* Fixed Battery Overlays
+* Added Unlimited Google Photos Storage
+
 ## June changelog (25-06-2021)
 * Updated source to Hycon v3.5
 * Enforcing Build
