@@ -2,6 +2,12 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/lavender/v4.5/total.svg)](https://GitHub.com/Hycon-Releases/lavender/releases)
+
+
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/lavender/v4.0/total.svg)](https://GitHub.com/Hycon-Releases/lavender/releases)
+
+
 [![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/lavender/V3.5/total.svg)](https://GitHub.com/Hycon-Releases/lavender/releases)
 
 
